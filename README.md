@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-AkashAjayKallai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akash-kallai-979a081ba/)](https://www.linkedin.com/in/akash-kallai-979a081ba/)
 [![GitHub Badge](https://img.shields.io/badge/-akash2704-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/akash2704)](https://github.com/akash2704)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://akashkallai27.wixsite.com/akashkallai)](https://akashkallai27.wixsite.com/akashkallai)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://akashkallai27.wixsite.com/akashkallai)](https://akashkallai.vercel.app/)
 [![Hugging Face Badge](https://img.shields.io/badge/-Hugging%20Face-orange?style=flat-square&logo=Hugging%20Face&logoColor=white&link=https://huggingface.co/ak2704)](https://huggingface.co/ak2704)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/akashkallai)](https://www.kaggle.com/akashkallai)
 
